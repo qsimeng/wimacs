@@ -94,6 +94,12 @@ UG Year 1: Samurah Rahman
 
 ---
 
+#### Ms Casey Hopkins
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 170px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/solmaz.safari/) is an Associate Professor in the Department of Computer Science at Swansea University.
+
+---
 
 ### Former Member Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
