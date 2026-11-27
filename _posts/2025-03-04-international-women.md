@@ -13,5 +13,5 @@ Time: Mar 7th, 5:00 pm.
 Location: Stadium, Swansea.
 </div>
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/IWD.png" alt="International">
+<img src="https://qsimeng.github.io/wimacs/assets/img/IWD.png" alt="International">
 
