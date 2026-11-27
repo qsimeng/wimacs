@@ -13,5 +13,5 @@ Time: Jan 17th, 4:00 pm.
 Location: CoFo 102, Swansea University Bay Campus.
 </div>
 
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/LC.png" alt="Colloquium">
+<img src="https://qsimeng.github.io/wimacs/assets/img/LC.png" alt="Colloquium">
 
